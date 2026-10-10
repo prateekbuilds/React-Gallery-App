@@ -2,7 +2,7 @@ Photo Gallery
 
 A paginated photo gallery built with React, pulling live images from the Picsum API. Includes author search/filtering within the current page.
 
-**[Live Demo](https://react-gallery-drkawtmtb-prateek-builds.vercel.app/)**
+**[Live Demo](https://react-gallery-app-wine.vercel.app/)**
 
 **[Repo](https://github.com/prateekbuilds/React-Gallery-App)**
 
